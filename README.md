@@ -1,7 +1,7 @@
 UFSDC Club Roster
 --------
 
-A listing of current and past club members, circa 2014
+_A listing of current and past club members, circa 2014_
 
 -----------------------
 
