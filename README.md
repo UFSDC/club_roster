@@ -1,7 +1,7 @@
 UFSDC Club Roster
 --------
 
-A listing of current and past club members, circa 2014
+_A listing of current and past club members, circa 2014_
 
 -----------------------
 
@@ -45,8 +45,7 @@ __Active__
 Whether or not the member is active. Updated by others. Put `true` if new member
 .
 
-----------------------------------------
-
+----------------------------------
 ###Using Git
 
-See [the guide by CodeSchool](https://try.github.io/levels/1/challenges/1) or [the guide I wrote before](https://github.com/uf-aggregator/AggreGatorRMC/tree/master/Getting_Started/Using_Git)
+See [the guide by CodeSchool](https://try.github.io/levels/1/challenges/1) or [the guide I wrote before](https://github.com/uf-aggregator/AggreGatorRMC/tree/master/Getting_Started/Using_Git).
