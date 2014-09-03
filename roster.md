@@ -14,6 +14,8 @@ Matthew Levy, matthewlv30, Member, Fall 2014, true
 
 Brian Habing, bhabing, Member, Fall 2014, true
 
+Sam Putnam, SamPutnam, Member, Fall 2014, true
+
 Greg Friedman, friedmangreg37, Member, Fall 2014, true
 
 Stephen SooHoo, soohoowoohoo, N/A, Fall 2014, true
