@@ -18,3 +18,4 @@ Stephen SooHoo, soohoowoohoo, N/A, Fall 2014, true
 
 Vigneswarnath Miriyala, miriyalavignesh, Member, Fall 2014, true
 
+Clarence Hwang, clarencehwang, Member, Fall 2012, true
