@@ -10,4 +10,8 @@ Joseph McConnell, jjmcconnell, Vice-President, Fall 2012, true
 
 Kyle Koceski, koceskik, Secretary, Fall 2012, true
 
+<<<<<<< HEAD
 Greg Friedman, friedmangreg37, Member, Fall 2014, true
+=======
+Stephen SooHoo, soohoowoohoo, N/A, Fall 2014, true
+>>>>>>> Added Stephen
