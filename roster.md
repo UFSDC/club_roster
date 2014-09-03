@@ -16,4 +16,5 @@ Greg Friedman, friedmangreg37, Member, Fall 2014, true
 
 Stephen SooHoo, soohoowoohoo, N/A, Fall 2014, true
 
+Vigneswarnath Miriyala, miriyalavignesh, Member, Fall 2014, true
 
