@@ -25,3 +25,5 @@ Vigneswarnath Miriyala, miriyalavignesh, Member, Fall 2014, true
 Clarence Hwang, clarencehwang, Member, Fall 2012, true
 
 Marcial Abrahantes, marcial1234, Member, Fall 2014, true
+
+Colin Chan, kalgynirae, Member, Fall 2014, true
