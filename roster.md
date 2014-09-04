@@ -1,6 +1,8 @@
 
 ###Format
+
     FullName,    GitHubUserName,    ClubPosition,    MemberSince,     Active
+
 
 Nick Tardif, nicktardif, President, Fall 2011, true  
 
@@ -25,3 +27,5 @@ Vigneswarnath Miriyala, miriyalavignesh, Member, Fall 2014, true
 Clarence Hwang, clarencehwang, Member, Fall 2012, true
 
 Marcial Abrahantes, marcial1234, Member, Fall 2014, true
+
+Giang Nguyen, giangnyugen00, Member, Fall 2014, true
