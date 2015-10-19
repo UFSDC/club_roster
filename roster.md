@@ -32,5 +32,6 @@ Giang Nguyen, giangnyugen00, Member, Fall 2014, true
 
 Colin Chan, kalgynirae, Member, Fall 2014, true
 
-Sebasti·n Hern·ndez, prcbass, Member, Fall 2014, true
+Sebasti√°n Hern√°ndez, prcbass, Member, Fall 2014, true
 
+Rokas Leskevicius, leskevicius, Member, Fall 2015, true
